@@ -1,16 +1,1 @@
-# aaa_aid
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple travel application main page. It requires a database for countries and also the Google Maps API for maps feature and Places API for nearby places. This page can be used on all kinds of screens because I have used padding, margin, alignment geometries, and the SafeArea widget while i designing"![1684001369505](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/ebb0c9d0-eab4-4b39-a624-dcbb78d8fa7f)
