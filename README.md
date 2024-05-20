@@ -1,4 +1,17 @@
-This is a simple travel application main page. It requires a database for countries and also the Google Maps API for maps feature and Places API for nearby places. This page can be used on all kinds of screens because I have used padding, margin, alignment geometries, and the SafeArea widget while i designing"![1684001369505](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/ebb0c9d0-eab4-4b39-a624-dcbb78d8fa7f)
-The view of page after add required data's![Screenshot_2023-05-14-11-08-13-497_com example wanderlust](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/682a69e5-6a4b-424d-91d1-6a5e8a1f7ea7)
-![Screenshot_2023-05-14-11-08-18-338_com example wanderlust](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/2feb8f4c-838b-4f5c-8b3e-f999b46ad565)
-![Screenshot_2023-05-14-11-08-29-923_com example wanderlust](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/e144053d-6efb-44d4-96dd-667a25057f61)
+# Flutter Travel Application Main Page
+
+This is a simple travel application main page built using Flutter. It requires a database for countries and utilizes the Google Maps API for the maps feature and Places API for nearby places. The page is designed to be responsive and can be used on all kinds of screens, thanks to the use of padding, margin, alignment geometries, and the SafeArea widget during the design process.
+
+## Screenshots
+
+![Main Page](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/ebb0c9d0-eab4-4b39-a624-dcbb78d8fa7f)
+*Main Page*
+
+![After Adding Required Data](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/682a69e5-6a4b-424d-91d1-6a5e8a1f7ea7)
+*View after adding required data*
+
+![Example](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/2feb8f4c-838b-4f5c-8b3e-f999b46ad565)
+*Another example*
+
+![Yet Another Example](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/e144053d-6efb-44d4-96dd-667a25057f61)
+*Yet another example*
