@@ -4,14 +4,7 @@ This is a simple travel application main page built using Flutter. It requires a
 
 ## Screenshots
 
-![Main Page](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/ebb0c9d0-eab4-4b39-a624-dcbb78d8fa7f)
-*Main Page*
-
-![After Adding Required Data](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/682a69e5-6a4b-424d-91d1-6a5e8a1f7ea7)
-*View after adding required data*
-
-![Example](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/2feb8f4c-838b-4f5c-8b3e-f999b46ad565)
-*Another example*
-
-![Yet Another Example](https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/e144053d-6efb-44d4-96dd-667a25057f61)
-*Yet another example*
+<img src="https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/ebb0c9d0-eab4-4b39-a624-dcbb78d8fa7f" width="200">
+<img src="https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/682a69e5-6a4b-424d-91d1-6a5e8a1f7ea7" width="200">
+<img src="https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/2feb8f4c-838b-4f5c-8b3e-f999b46ad565" width="200">
+<img src="https://github.com/ArifKuru/Flutter_Travel_Application_Main_Page/assets/125080971/e144053d-6efb-44d4-96dd-667a25057f61" width="200">
